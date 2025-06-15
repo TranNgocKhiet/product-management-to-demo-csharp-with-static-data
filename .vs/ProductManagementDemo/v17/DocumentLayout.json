@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\ProductManagementDemo\\",
+  "WorkspaceRootPath": "D:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\productmanagementdemo\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\productmanagementdemo\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\productmanagementdemo\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\productmanagementdemo\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\ProductManagementDemo\\WPFApp\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\WPFApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\ProductManagementDemo\\WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\WPFApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAYwL8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwMgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T16:17:37.438Z",
               "EditorCaption": ""
@@ -45,20 +45,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\ProductManagementDemo\\WPFApp\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\WPFApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
-              "ToolTip": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\ProductManagementDemo\\WPFApp\\MainWindow.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\WPFApp\\MainWindow.xaml",
               "RelativeToolTip": "WPFApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-12T16:17:36.258Z"
+              "WhenOpened": "2025-06-12T16:17:36.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\ProductManagementDemo\\WPFApp\\LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\WPFApp\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\ProductManagementDemo\\WPFApp\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\WPFApp\\LoginWindow.xaml.cs",
               "RelativeToolTip": "WPFApp\\LoginWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\ProductManagementDemo\\WPFApp\\LoginWindow.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\WPFApp\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml",
-              "ToolTip": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\ProductManagementDemo\\WPFApp\\LoginWindow.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\WPFApp\\LoginWindow.xaml",
               "RelativeToolTip": "WPFApp\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-12T16:17:32.306Z"

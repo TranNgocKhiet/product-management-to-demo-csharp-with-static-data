@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUd6ZuF5YmI=",
+  "dgSpecHash": "YJn0Wf3hwJ8=",
   "success": true,
-  "projectFilePath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-1\\ProductManagementDemo\\WPFApp\\WPFApp.csproj",
+  "projectFilePath": "D:\\6_github_repositories\\prn212-lab-1\\product-management-to-demo-csharp-with-static-data\\WPFApp\\WPFApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
